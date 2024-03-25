@@ -1,0 +1,14 @@
+Arham
+Lahore
+03338797654
+arham@nu.edu.pk
+PU
+CS
+V
+Lecturer
+SE,AI,DS,OS
+4,4,4,4
+2000
+1
+4
+Masters
